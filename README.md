@@ -1,2 +1,3 @@
-# phones
-A simple functional project about phone shop
+# phones website
+
+This is my final website on PLP project
